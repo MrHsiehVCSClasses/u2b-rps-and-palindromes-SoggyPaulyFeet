@@ -8,11 +8,11 @@ class Main {
         
         // uncomment to manually test play method
         // System.out.println(RockPaperScissors.results("R", "R"));
-        /* 
+        
         Scanner myScanner = new Scanner(System.in);
         RockPaperScissors.play(myScanner);
         myScanner.close();
-        */
+        
 
         // uncomment and change to manually test Palindrome
         // System.out.println(PalindromeTester.isPalindrome("test"));
